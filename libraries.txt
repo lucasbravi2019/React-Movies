@@ -1,0 +1,3 @@
+React router npm i react-router-dom@next
+Styled components npm i styled-components
+Prop Types npm i prop-types
